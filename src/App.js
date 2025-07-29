@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Karunya
+          Karunya Institute of Technology and Sciences
         </a>
       </header>
     </div>
